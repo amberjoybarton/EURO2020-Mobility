@@ -1,7 +1,6 @@
 Changes in UK mobility on EURO 2020 match days
 ================
 Amber Barton
-06/07/2021
 
 ## Rationale
 
